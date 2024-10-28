@@ -1,0 +1,16 @@
+room_number,room_type,price_per_night,max_occupancy,status,current_guest,check_in_date,check_out_date,floor,view_type
+101,Standard Queen,159.99,2,available,none,none,none,1,City
+102,Standard Twin,149.99,2,booked,John Smith,2024-10-28,2024-10-30,1,City
+103,Deluxe King,229.99,3,available,none,none,none,1,Garden
+104,Standard Queen,159.99,2,maintenance,none,2024-10-27,2024-10-29,1,City
+105,Executive Suite,349.99,4,booked,Sarah Johnson,2024-10-25,2024-10-29,1,Ocean
+201,Deluxe King,229.99,3,available,none,none,none,2,Ocean
+202,Standard Twin,149.99,2,available,none,none,none,2,City
+203,Executive Suite,349.99,4,available,none,none,none,2,Ocean
+204,Standard Queen,159.99,2,booked,Michael Brown,2024-10-28,2024-10-31,2,Garden
+205,Deluxe King,229.99,3,available,none,none,none,2,Ocean
+301,Presidential Suite,599.99,6,booked,David Wilson,2024-10-20,2024-11-02,3,Ocean
+302,Standard Queen,159.99,2,available,none,none,none,3,City
+303,Deluxe King,229.99,3,available,none,none,none,3,Garden
+304,Standard Twin,149.99,2,maintenance,none,2024-10-26,2024-10-30,3,City
+305,Executive Suite,349.99,4,available,none,none,none,3,Ocean
